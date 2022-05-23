@@ -1,0 +1,28 @@
+'Objetos'
+
+Un objeto es un elemeto independiente con sus propias caracterizticas.
+ Compáralo con una taza, por ejemplo. Una taza es un objeto con propiedades,
+ tiene un color, un diseño, un peso, un material del que está hecha, etc.
+ De igual manera los objetos tiene cosas que la definen. 
+
+
+ 'Propiedades'
+
+ Una propiedad es lo que va dentro de un objeto, esta misma define las caracterizticas del objeto.
+
+
+ 'Metodos'
+
+ Son funciones que estan guardadas dentro de un objeto.
+ podés modificar las propiedades de un objeto, añadir elementos a una lista, quitarlos, transformar un string en un número entero o decimal.
+
+ 'bucle for in'
+
+ Recorrerá cada propiedad de un objeto y terminará cuando alla recorrido todas.
+
+ 'Notación de puntos vs notación de corchetes'
+
+ Podemos acceder a las propiedades y/o funciones de un objeto usando cualquier notación: el punto . o los corchetes [] 
+ Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto.
+ Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto (por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
+Si queremos minificar nuestro código, la notación del punto no es válida, debemos usar la notación de corchetes.
