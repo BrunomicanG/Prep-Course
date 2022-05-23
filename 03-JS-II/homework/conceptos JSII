@@ -1,0 +1,20 @@
+'for' 
+
+Bucles 'for' son utilizados para realizar tareas repetitivas. Generalmente el resultado es true (verdadero) o false (falso).
+ El bucle continuará ejecutándose hasta que la condición devuelva false.
+
+ '&&'
+ Es un operador logico, osea, compara dos expresiones y el resultado será verdadero si ambas expresiones son true.
+ Si uno o ambos son falso devolverá false.
+
+ '||' 
+ Al igual que el operador &&, compara dos expresiones y devolverá true si una o ambas son verdaderas.
+ Pero devolvera false si las dos son false.
+
+ '!'
+ Este operador devolverá el valor booleano opuesto
+ 
+
+
+
+
