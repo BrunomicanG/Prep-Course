@@ -1,0 +1,40 @@
+//Variables//
+
+Es una forma de almacenar el valor de algo para usarlo mas tarde.
+
+para crear una variable usamos la palabra clave 'var' y el nombre que le queremos asignar.
+
+Ademas de eso podemos declararla agregandole el signo =
+
+
+Ej:                      var   i   =    0
+        // declaramos la variable  // asignamos un valor //
+
+ Exiten tres formas de declarar una variable:
+ 
+ var, let y const.
+
+
+ //Strings//
+
+ Los strings son bloques de texto, siempre llevan comillas.
+
+ Cualquier texto entre comillas es una cadena o string.
+
+ Ej: 'Gato', 'Arbol'.
+
+
+
+ //Funciones (function, argumentos)//  
+
+ Una funcion comenzara con la palabra clave Function.
+ Esto le dice al interprete que lo que viene es una funcion y debe tratarce como tal.
+ Luego viene el nombre de la misma que describe lo que va a hacer.
+ Despues un parentesis y corchetes, que es donde ira el codigo que querramos ejecutar.
+
+ //Declaraciones 'if'//
+Las declaraciones if permiten determinar si un valor o algo cumple cierta condicion respecto a otros valores.
+
+//Valores Booleanos//
+Los booleanos son valores de falso o verdadero, son códigos binarios que ayudan a determinar si una condición es falsa o verdadera.
+
