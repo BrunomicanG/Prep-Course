@@ -1,0 +1,10 @@
+'prototype'
+
+Los prototipos son un mecanismo mediante el cual los objetos obtienen características entre sí.
+Es como un motor que busca propiedades dentro del objeto, si el motor falla en la busqueda continua buscando y asi sucesivamente
+hasta llegar al prototipo.
+
+'Constructors'
+
+Un constructor es una función especial que crea una instancia de objeto de una clase.
+ Se llama a un constructor cuando se crea un objeto usando la palabra clave 'new'.
