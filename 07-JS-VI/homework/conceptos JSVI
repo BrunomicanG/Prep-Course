@@ -1,0 +1,5 @@
+'callbacks'
+
+Un callback es una función que se pasa a otra función como un argumento, 
+que luego se invoca dentro de la primera funcion para completar algún tipo de rutina o acción.
+Nos ayuda a desarrollar códigos y nos mantiene a salvo de problemas y errores.
